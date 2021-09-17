@@ -11,3 +11,4 @@ chrome = uc.Chrome(options=options)
 chrome.get(url="https://bot.sannysoft.com/")
 ```
 
+# QQ群: 302854585
